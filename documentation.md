@@ -9,7 +9,17 @@ In Javascript, it's possible to reassign a variable with a different data type b
 ## TypeScript Syntax 
 When declaring a variable, you have to include the date type - `let variableName : type = variable` 
 
-When we specify the type in typescript, it suggests several methods we can use for that type
+### Variables
+- When we specify the type in typescript, it suggests several methods we can use for that type
+
+### Functions
+- When passing in an argument in a function, always specify the type
+
+- You can specify the type of data a function returns e.g 
+
+`function(name: string) :string {return "Hello" //correct return 5 //typescript error}`
+
+
 
 
 
