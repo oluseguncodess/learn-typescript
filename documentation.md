@@ -19,6 +19,10 @@ When declaring a variable, you have to include the date type - `let variableName
 
 `function(name: string) :string {return "Hello" //correct return 5 //typescript error}`
 
+## Keywords 
+
+`protected` - this doesn't allow a specified property or method to be accessed by an instance. It can only be accessed by a class and it's sub-classes(class that are extended)
+
 
 
 
