@@ -23,8 +23,12 @@ When declaring a variable, you have to include the date type - `let variableName
 
 `protected` - this doesn't allow a specified property or method to be accessed by an instance. It can only be accessed by a class and it's sub-classes(class that are extended)
 
+`static` - we use this keyword so we can call a method using the class name rather than having to create an instance. It's called like how you'll call a function. Subclasses can also call the method or property. 
 
+`private` - this makes the specified method or property of a class only accessible 
 
+### Abstract class
+This is a classs that cannot be instanciated! 
 
 
 ## Notes 
