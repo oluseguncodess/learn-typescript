@@ -9,6 +9,10 @@ class Animal {
         this.coordX = x;
     }
 
+    getCoordX() {
+        return this.coordX;
+    }
+
     setCoordY(y: number) {
         this.coordY = y;
     }
@@ -38,10 +42,6 @@ class Cat extends Animal {
     makeNoise() {
         console.log("Meow");  
     }
-
-    getCoordX() {
-        return this.coordX;
-    }
 }
     
 class Dog extends Animal {}
@@ -49,6 +49,7 @@ class Dog extends Animal {}
 const bruno = new Cat();
 bruno.setCoordX(10);
 console.log(bruno.getCoordX());
+
 
 
 

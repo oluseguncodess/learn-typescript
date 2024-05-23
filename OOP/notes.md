@@ -14,5 +14,8 @@ However, if the super class has a private keyword, it won't be able to access th
 
 If we however use the keyword `protected`, we will be able to access it inside of sub-classes that have inherited the super-class but not outside of those subclasses (please test this!) --- verified ✅
 
+NOTE --> You can redeclare methods from a class in a sub-class!
+
 #### Similiarities and differences between Private and Protected Keywords
 Private and protected are similar because they don't allow you access data. There difference is that priavte doesn't allow you access a class's data from it's sub-classes while protected does.
+
