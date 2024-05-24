@@ -22,3 +22,4 @@ Super can be used to extends a super class methods into sub-classes!
 #### Similiarities and differences between Private and Protected Keywords
 Private and protected are similar because they don't allow you access data. There difference is that priavte doesn't allow you access a class's data from it's sub-classes while protected does.
 
+NOTE --> One thing he said about creating sub-classes what that if you what to know a sub-class, use the IS-A test. This sub-class, is it actually the class too? Is a Tiger an animal, if yes, that's a sub-class. For properties, the HAS-A test works. A Tiger HAS-A stripe doesn't make a Tiger a Stripe!
