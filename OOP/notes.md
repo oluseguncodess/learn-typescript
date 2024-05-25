@@ -1,3 +1,5 @@
+--> Found an article on Object Oriented Programming with TypeScript ---> https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p    
+
 # Learning OOP with TypeScript
 Classes are not objects but are used to construct objects
 
