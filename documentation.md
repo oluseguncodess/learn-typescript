@@ -27,6 +27,8 @@ When declaring a variable, you have to include the date type - `let variableName
 
 `private` - this makes the specified method or property of a class only accessible 
 
+`void` - used infunctions that aren't returning any values.
+
 ### Abstract class
 This is a classs that cannot be instanciated! 
 
