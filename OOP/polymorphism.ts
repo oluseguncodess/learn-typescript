@@ -40,10 +40,10 @@ class Knight extends Hero{
     }
 }
 
-const archer = new Archer();
-const mage = new Mage();
-const knight = new Knight();
+const archer : Hero = new Archer();
+const mage : Hero = new Mage();
+const knight : Hero = new Knight();
  
-archer.attack();
-mage.attack();
-knight.attack();
+class Tribe {
+    
+}
